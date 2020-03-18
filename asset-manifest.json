@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clicker/static/css/main.4529386c.chunk.css",
+    "main.js": "/clicker/static/js/main.bc3fce59.chunk.js",
+    "main.js.map": "/clicker/static/js/main.bc3fce59.chunk.js.map",
+    "runtime-main.js": "/clicker/static/js/runtime-main.2292aea3.js",
+    "runtime-main.js.map": "/clicker/static/js/runtime-main.2292aea3.js.map",
+    "static/js/2.2ee9ba52.chunk.js": "/clicker/static/js/2.2ee9ba52.chunk.js",
+    "static/js/2.2ee9ba52.chunk.js.map": "/clicker/static/js/2.2ee9ba52.chunk.js.map",
+    "index.html": "/clicker/index.html",
+    "precache-manifest.de420f302c84c349e91a8ac04f66b1b3.js": "/clicker/precache-manifest.de420f302c84c349e91a8ac04f66b1b3.js",
+    "service-worker.js": "/clicker/service-worker.js",
+    "static/css/main.4529386c.chunk.css.map": "/clicker/static/css/main.4529386c.chunk.css.map",
+    "static/js/2.2ee9ba52.chunk.js.LICENSE.txt": "/clicker/static/js/2.2ee9ba52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2292aea3.js",
+    "static/js/2.2ee9ba52.chunk.js",
+    "static/css/main.4529386c.chunk.css",
+    "static/js/main.bc3fce59.chunk.js"
+  ]
+}
