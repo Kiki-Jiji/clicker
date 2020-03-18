@@ -1,14 +1,16 @@
 import React from 'react';
 import './App.css';
 
-import Timer from '../Timer/Timer.js'
+import Click from '../click/click.js'
 
-function App() {
+class App extends React.Component {
+
+  render() {
   return (
     <div className="App">
-      <Timer />
+      <Click />
     </div>
   );
+ }
 }
-
 export default App;

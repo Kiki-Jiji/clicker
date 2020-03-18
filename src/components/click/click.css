@@ -1,0 +1,11 @@
+
+.click {
+  font-size: 100px;
+  border: solid;
+}
+
+.buttons button {
+  border-radius: 30%;
+  font-size: 100px;
+  width: 150px;
+}
